@@ -1,0 +1,6 @@
+--- DELETE THIS BEFORE RUNNING SCRIPT ---
+List all variable names you will use in your script here, create a new line for each var.
+=========================================
+var1
+var2
+var3...
