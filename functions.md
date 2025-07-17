@@ -1,3 +1,5 @@
+# View this document RAW or in code view, do not use preview
+
 -- Run this in terminal to init script --
 python compile.py script.txt vars.txt
 
