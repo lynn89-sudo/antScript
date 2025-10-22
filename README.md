@@ -1,4 +1,4 @@
-# View this document RAW or in code view, do not use preview
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 
 -- Run this in terminal to init script --
 python compile.py script.txt vars.txt
@@ -42,3 +42,4 @@ queen food
 <name> avecvar <var_name> est <var_name> sans <var_name> fin
 - Creates or edits the value of a variable, the value is the subtraction of the two variables
 - Yes, "fin" ending is required
+
