@@ -295,10 +295,18 @@ def runScript(filename, varsheet):
     print("")
 
 
+def main():
+    import sys
+    if len(sys.argv) < 3:
+        print("Usage: antscript <script> <varsheet>")
+        sys.exit(1)
 
-filename = sys.argv[1]
-varsheet = sys.argv[2]
-runScript(filename, varsheet)
+    filename = sys.argv[1]
+    varsheet = sys.argv[2]
+    runScript(filename, varsheet)
+
+if __name__ == "__main__":
+    main()
 
 # python compile.py script.txt vars.txt
 

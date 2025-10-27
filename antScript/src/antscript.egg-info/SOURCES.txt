@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/antScript/__init__.py
+src/antScript/compile.py
+src/antScript/script.txt
+src/antScript/vars.txt
+src/antscript.egg-info/PKG-INFO
+src/antscript.egg-info/SOURCES.txt
+src/antscript.egg-info/dependency_links.txt
+src/antscript.egg-info/entry_points.txt
+src/antscript.egg-info/top_level.txt
